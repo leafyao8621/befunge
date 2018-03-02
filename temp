@@ -1,0 +1,339 @@
+execute (0,0): &
+entering dir: RIGHT
+in: 
+
+exiting dir: RIGHT
+stack:
+3
+execute (1,0): >
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+3
+execute (2,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+3,3
+execute (3,0): 1
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,3,3
+execute (4,0): -
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+2,3
+execute (5,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+2,2,3
+execute (6,0): v
+entering dir: RIGHT
+
+exiting dir: DOWN
+stack:
+2,2,3
+execute (6,1): _
+entering dir: DOWN
+
+exiting dir: LEFT
+stack:
+2,3
+execute (5,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (4,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (3,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (2,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (1,1): ^
+entering dir: LEFT
+
+exiting dir: UP
+stack:
+2,3
+execute (1,0): >
+entering dir: UP
+
+exiting dir: RIGHT
+stack:
+2,3
+execute (2,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+2,2,3
+execute (3,0): 1
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,2,2,3
+execute (4,0): -
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,2,3
+execute (5,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,1,2,3
+execute (6,0): v
+entering dir: RIGHT
+
+exiting dir: DOWN
+stack:
+1,1,2,3
+execute (6,1): _
+entering dir: DOWN
+
+exiting dir: LEFT
+stack:
+1,2,3
+execute (5,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+1,2,3
+execute (4,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+1,2,3
+execute (3,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+1,2,3
+execute (2,1):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+1,2,3
+execute (1,1): ^
+entering dir: LEFT
+
+exiting dir: UP
+stack:
+1,2,3
+execute (1,0): >
+entering dir: UP
+
+exiting dir: RIGHT
+stack:
+1,2,3
+execute (2,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,1,2,3
+execute (3,0): 1
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,1,1,2,3
+execute (4,0): -
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+0,1,2,3
+execute (5,0): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+0,0,1,2,3
+execute (6,0): v
+entering dir: RIGHT
+
+exiting dir: DOWN
+stack:
+0,0,1,2,3
+execute (6,1): _
+entering dir: DOWN
+
+exiting dir: RIGHT
+stack:
+0,1,2,3
+execute (7,1): $
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,2,3
+execute (8,1): >
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+1,2,3
+execute (9,1): \
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+2,1,3
+execute (10,1): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+2,2,1,3
+execute (11,1): ^
+entering dir: RIGHT
+
+exiting dir: UP
+stack:
+2,2,1,3
+execute (11,0): _
+entering dir: UP
+
+exiting dir: LEFT
+stack:
+2,1,3
+execute (10,0): *
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (9,0):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+2,3
+execute (8,0): v
+entering dir: LEFT
+
+exiting dir: DOWN
+stack:
+2,3
+execute (8,1): >
+entering dir: DOWN
+
+exiting dir: RIGHT
+stack:
+2,3
+execute (9,1): \
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+3,2
+execute (10,1): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+3,3,2
+execute (11,1): ^
+entering dir: RIGHT
+
+exiting dir: UP
+stack:
+3,3,2
+execute (11,0): _
+entering dir: UP
+
+exiting dir: LEFT
+stack:
+3,2
+execute (10,0): *
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+6
+execute (9,0):  
+entering dir: LEFT
+
+exiting dir: LEFT
+stack:
+6
+execute (8,0): v
+entering dir: LEFT
+
+exiting dir: DOWN
+stack:
+6
+execute (8,1): >
+entering dir: DOWN
+
+exiting dir: RIGHT
+stack:
+6
+execute (9,1): \
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+0,6
+execute (10,1): :
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+0,0,6
+execute (11,1): ^
+entering dir: RIGHT
+
+exiting dir: UP
+stack:
+0,0,6
+execute (11,0): _
+entering dir: UP
+
+exiting dir: RIGHT
+stack:
+0,6
+execute (12,0): $
+entering dir: RIGHT
+
+exiting dir: RIGHT
+stack:
+6
+execute (13,0): .
+entering dir: RIGHT
+out: 6
+exiting dir: RIGHT
+stack:
+execute (14,0): @
+entering dir: RIGHT
+
