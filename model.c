@@ -43,10 +43,6 @@ Data* init_from_file(char* file_name) {
     return opt;
 }
 
-int print_map(Data* d) {
-    for (int i = 0; i < 25; puts(d->map[i++]));
-}
-
 Cursor* malloc_Cursor(void) {
     Cursor* opt = malloc(sizeof(Cursor));
     opt->dir = RIGHT;

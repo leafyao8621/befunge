@@ -13,7 +13,12 @@ struct Stack {
 
 Stack* malloc_Stack(void) {
     Stack* opt = malloc(sizeof(Stack));
+    if (!opt) {
+        puts("malloc stack error");
+        return NULL;
+    }
     opt->tail = NULL;
+    return opt;
 }
 
 int push(Stack* s, int v) {

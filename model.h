@@ -6,4 +6,3 @@ Data* init_from_file(char* file_name);
 Cursor* malloc_Cursor(void);
 int move(Cursor* c);
 int handle(Data* d, Cursor* c, Stack* s, int dbg);
-int print_map(Data* d);
